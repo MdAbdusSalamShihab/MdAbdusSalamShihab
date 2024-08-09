@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate frontend Graphics Design from bangladesh</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
+
 - 🔭 I’m currently working on **Shopify**
 
 - 🌱 I’m currently learning **UX/UI Design**
