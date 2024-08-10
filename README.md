@@ -4,9 +4,10 @@
 
 **I'm a **Graphic Designer** And **UI/UX Designer** who loves to design creative UI and awesome animations to bring concepts to life as imagined. I am experienced in **Video Editing**, **Designing** layouts for promotional materials and **Effective Logos**. I am also interested in **Motion Graphics** and collaborate with creative teams to learn and grow.**
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Md%20Abdus%20Salam&theme=dark" alt="GitHub Streak" /></a>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Md%20Abdus%20Salam&theme=dark" alt="GitHub Streak" /></a>
 
 - 🔭 I’m currently working on **Shopify**
 
@@ -52,3 +53,23 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
