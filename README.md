@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DFF1E&center=true&vCenter=true&width=435&lines=Assalamu+Alaykum+%E2%9D%A4%EF%B8%8F;I+Am+Shihab;+I+Am+A+Graphic+designer;I+Hopefully+You+are+Fine+%E2%9D%A4%EF%B8%8F;Welcome+To+My+Profile+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 
-<h3 align="center">A passionate frontend Graphics Design from bangladesh</h3>
+<h2 align="center">A passionate frontend Graphics Design from bangladesh</h2>
 
 **I'm a graphic designer who loves to design creative UI and awesome animations to bring concepts to life as imagined. I am experienced in video editing, designing layouts for promotional materials and effective logos. I am also interested in motion graphics and collaborate with creative teams to learn and grow.**
 
