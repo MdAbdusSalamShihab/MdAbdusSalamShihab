@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate frontend Graphics Design from bangladesh</h2>
 
-**I'm a **Graphic Designer** And **UI/UX** who loves to design creative UI and awesome animations to bring concepts to life as imagined. I am experienced in **Video Editing**, **Designing** layouts for promotional materials and **Effective Logos**. I am also interested in **Motion Graphics** and collaborate with creative teams to learn and grow.**
+**I'm a **Graphic Designer** And **UI/UX Designer** who loves to design creative UI and awesome animations to bring concepts to life as imagined. I am experienced in **Video Editing**, **Designing** layouts for promotional materials and **Effective Logos**. I am also interested in **Motion Graphics** and collaborate with creative teams to learn and grow.**
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
 
