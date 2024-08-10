@@ -32,9 +32,9 @@
 </p>
 
 ## Skills
+* Graphic Design
 * Photo Manipulation
-* Graphic Design 
-* UX Design
+* UI/UX Design
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif" width="340" height="240"/>
 
