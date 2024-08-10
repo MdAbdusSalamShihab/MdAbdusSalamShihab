@@ -2,6 +2,7 @@
 
 <h3 align="center">A passionate frontend Graphics Design from bangladesh</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif" width="340" height="240"/>
 
 <p align="center">
