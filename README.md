@@ -32,7 +32,7 @@
 </p>
 
 ## Skills
-* Web Design
+* Photo Manipulation
 * Graphic Design 
 * UX Design
 
