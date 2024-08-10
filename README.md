@@ -2,12 +2,11 @@
 
 <h2 align="center">A passionate frontend Graphics Design from bangladesh</h2>
 
-**I'm a graphic designer who loves to design creative UI and awesome animations to bring concepts to life as imagined. I am experienced in video editing, designing layouts for promotional materials and effective logos. I am also interested in motion graphics and collaborate with creative teams to learn and grow.**
+**I'm a **Graphic Designer** And **UI/UX** who loves to design creative UI and awesome animations to bring concepts to life as imagined. I am experienced in **Video Editing**, **Designing** layouts for promotional materials and **Effective Logos**. I am also interested in **Motion Graphics** and collaborate with creative teams to learn and grow.**
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Md%20Abdus%20Salam&theme=dark" alt="GitHub Streak" /></a>
-
 
 - 🔭 I’m currently working on **Shopify**
 
@@ -46,3 +45,10 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/after-effects-cc-logo-png-transparent.png" alt="adobe-after-effects" width="40" height="40"/> 
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/canva-logo-app-freelogovectors.net_.png" alt="canva" width="40" height="40"/> 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
