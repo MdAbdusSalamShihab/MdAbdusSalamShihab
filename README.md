@@ -5,10 +5,11 @@
 <h2 align="center">A passionate frontend Graphics Design from bangladesh</h2>
 
 <br>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Md%20Abdus%20Salam&theme=dark" alt="GitHub Streak" /></a>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
+<br> <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif" width="340" height="240"/>
 
 
 - 🔭 I’m currently working on **Shopify**
@@ -63,8 +64,6 @@ Let’s design something amazing together! 🌟</h4>
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/canva-logo-app-freelogovectors.net_.png" alt="canva" width="40" height="40"/> 
 <br>
 <br>
-
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif" width="340" height="240"/>
 
 <br>
 
