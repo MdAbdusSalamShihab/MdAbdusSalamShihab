@@ -4,7 +4,15 @@
 
 <h2 align="center">A passionate frontend Graphics Design from bangladesh</h2>
 
-**I'm a **Graphic Designer** And **UI/UX Designer** who loves to design creative UI and awesome animations to bring concepts to life as imagined. I am experienced in **Video Editing**, **Designing** layouts for promotional materials and **Effective Logos**. I am also interested in **Motion Graphics** and collaborate with creative teams to learn and grow.**
+<h4 align="center">About Me 🎨✨
+
+Hello! I’m a creative wizard 🧙‍♂️ specializing in graphic design, photo manipulation, and UI/UX design. My toolkit includes Adobe Photoshop, Adobe Illustrator, Adobe XD, and Figma 🎨, where I transform ideas into visually stunning realities.
+
+Whether it’s crafting eye-catching designs, breathing life into images through photo manipulation, or designing user-friendly interfaces, I’m all about aesthetics and functionality. My work isn’t just about looking good—it’s about creating experiences that resonate with users and leave a lasting impact 💥.
+
+On top of my design skills, I’m also a digital marketer 📈, blending creativity with strategy to build and promote brands that stand out in the digital landscape. From visuals to campaigns, I’m here to make sure your message not only reaches but also captivates your audience.
+
+Let’s design something amazing together! 🌟</h4><br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Md%20Abdus%20Salam&theme=dark" alt="GitHub Streak" /></a>
 
