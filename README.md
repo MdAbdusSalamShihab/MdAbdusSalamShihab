@@ -4,15 +4,7 @@
 
 <h2 align="center">A passionate frontend Graphics Design from bangladesh</h2>
 
-<h4 align="center">About Me 🎨✨</h4> <br>
-
-<h4 align="center">Hello! I’m a creative wizard 🧙‍♂️ specializing in graphic design, photo manipulation, and UI/UX design. My toolkit includes Adobe Photoshop, Adobe Illustrator, Adobe XD, and Figma 🎨, where I transform ideas into visually stunning realities.
-
-Whether it’s crafting eye-catching designs, breathing life into images through photo manipulation, or designing user-friendly interfaces, I’m all about aesthetics and functionality. My work isn’t just about looking good—it’s about creating experiences that resonate with users and leave a lasting impact 💥.
-
-On top of my design skills, I’m also a digital marketer 📈, blending creativity with strategy to build and promote brands that stand out in the digital landscape. From visuals to campaigns, I’m here to make sure your message not only reaches but also captivates your audience.
-
-Let’s design something amazing together! 🌟</h4> <br>
+<br>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Md%20Abdus%20Salam&theme=dark" alt="GitHub Streak" /></a>
 
@@ -33,7 +25,15 @@ Let’s design something amazing together! 🌟</h4> <br>
 
 - ⚡ Fun fact **I think I Am Funny**
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+## Skills
+* Graphic Design
+* Photo Manipulation
+* UI/UX Design
+
+## Connect with me
+
 <p align="left">
 <a href="https://twitter.com/shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shihab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shihab salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shihab salam" height="30" width="40" /></a>
@@ -41,20 +41,31 @@ Let’s design something amazing together! 🌟</h4> <br>
 <a href="https://instagram.com/md_am_shiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_am_shiam" height="30" width="40" /></a>
 </p>
 
-## Skills
-* Graphic Design
-* Photo Manipulation
-* UI/UX Design
+## About Me 🎨✨
+
+<h4 align="center">Hello! I’m a creative wizard 🧙‍♂️ specializing in graphic design, photo manipulation, and UI/UX design. My toolkit includes Adobe Photoshop, Adobe Illustrator, Adobe XD, and Figma 🎨, where I transform ideas into visually stunning realities.
+
+Whether it’s crafting eye-catching designs, breathing life into images through photo manipulation, or designing user-friendly interfaces, I’m all about aesthetics and functionality. My work isn’t just about looking good—it’s about creating experiences that resonate with users and leave a lasting impact 💥.
+
+On top of my design skills, I’m also a digital marketer 📈, blending creativity with strategy to build and promote brands that stand out in the digital landscape. From visuals to campaigns, I’m here to make sure your message not only reaches but also captivates your audience.
+
+Let’s design something amazing together! 🌟</h4>
+
+<br>
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif" width="340" height="240"/>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+
+## Languages and Tools
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="figma" width="40" height="40"/> 
 <img src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" alt="photoshop" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe_XD" width="40" height="40"/> 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/after-effects-cc-logo-png-transparent.png" alt="adobe-after-effects" width="40" height="40"/> 
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/canva-logo-app-freelogovectors.net_.png" alt="canva" width="40" height="40"/> 
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
