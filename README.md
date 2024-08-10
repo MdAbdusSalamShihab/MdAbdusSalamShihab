@@ -31,6 +31,11 @@
 <a href="https://instagram.com/md_am_shiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_am_shiam" height="30" width="40" /></a>
 </p>
 
+## Skills
+* Web Design
+* Graphic Design 
+* UX Design
+
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif" width="340" height="240"/>
 
 <h3 align="left">Languages and Tools:</h3>
