@@ -68,7 +68,7 @@ Let’s design something amazing together! 🌟</h4>
 
 ## Languages and Tools
 
-<p align="center">
+<p align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="figma" width="40" height="40"/> 
 <img src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" alt="photoshop" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe_XD" width="40" height="40"/> 
@@ -104,6 +104,14 @@ Let’s design something amazing together! 🌟</h4>
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+  ###
+  
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/MdAbdusSalamShihab/count.svg?"  />
+  </div>
+  
+  ###
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
