@@ -53,10 +53,6 @@ Let’s design something amazing together! 🌟</h4>
 
 <br>
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif" width="340" height="240"/>
-
-<br>
-
 ## Languages and Tools
 
 <p align="center">
@@ -66,6 +62,9 @@ Let’s design something amazing together! 🌟</h4>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/after-effects-cc-logo-png-transparent.png" alt="adobe-after-effects" width="40" height="40"/> 
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/canva-logo-app-freelogovectors.net_.png" alt="canva" width="40" height="40"/> 
 <br>
+
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif" width="340" height="240"/>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
