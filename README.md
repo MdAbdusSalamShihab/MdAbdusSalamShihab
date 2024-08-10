@@ -1,3 +1,5 @@
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DFF1E&center=true&vCenter=true&width=435&lines=Assalamu+Alaykum+%E2%9D%A4%EF%B8%8F;I+Am+Shihab;+I+Am+A+Graphic+designer;I+Hopefully+You+are+Fine+%E2%9D%A4%EF%B8%8F;Welcome+To+My+Profile+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 
 <h2 align="center">A passionate frontend Graphics Design from bangladesh</h2>
