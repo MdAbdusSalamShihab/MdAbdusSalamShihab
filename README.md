@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate frontend Graphics Design from bangladesh</h3>
 
+**I'm a graphic designer who loves to design creative UI and awesome animations to bring concepts to life as imagined. I am experienced in video editing, designing layouts for promotional materials and effective logos. I am also interested in motion graphics and collaborate with creative teams to learn and grow.**
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Md%20Abdus%20Salam&theme=dark" alt="GitHub Streak" /></a>
