@@ -12,7 +12,7 @@ Whether it’s crafting eye-catching designs, breathing life into images through
 
 On top of my design skills, I’m also a digital marketer 📈, blending creativity with strategy to build and promote brands that stand out in the digital landscape. From visuals to campaigns, I’m here to make sure your message not only reaches but also captivates your audience.
 
-Let’s design something amazing together! 🌟</h4><br>
+Let’s design something amazing together! 🌟</h4>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Md%20Abdus%20Salam&theme=dark" alt="GitHub Streak" /></a>
 
