@@ -52,13 +52,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </div>
-  
-<p align="left">
-<a href="https://twitter.com/shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shihab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shihab salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shihab salam" height="30" width="40" /></a>
-<a href="https://fb.com/md.shihabsalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.shihabsalam" height="30" width="40" /></a>
-<a href="https://instagram.com/shi_hab_salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shi_hab_salam" height="30" width="40" /></a>
-</p>
+
 
 ## About Me 🎨✨
 
