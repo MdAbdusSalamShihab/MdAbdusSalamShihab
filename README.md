@@ -1,6 +1,6 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4DF01A&center=true&width=435&lines=Assala+Mualaikum+%E2%9D%A4%EF%B8%8F;Hey!+I'm+Shihab;And+I'm+Graphic+Designer;+I+Hope+You+Are+Fine+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4DF01A&width=435&lines=Assala+Mualaikum+%E2%9D%A4%EF%B8%8F;Hey!+I'm+Shihab;And+I'm+Graphic+Designer;+I+Hope+You+Are+Fine+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 
 <h2 align="center">A passionate frontend Graphics Design from bangladesh</h2>
 
