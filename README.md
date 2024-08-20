@@ -16,13 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MdAbdusSalamShihab](https://github.com/MdAbdusSalamShihab)
 
-
 - 💬 Ask me about **Designing**
 
-- 📫 How to reach me **mdasshihab25@gmail.com
-**
-
-- ⚡ Fun fact **I think I Am Funny**
+- 📫 How to reach me **mdasshihab25@gmail.com**
 
 <br>
 
